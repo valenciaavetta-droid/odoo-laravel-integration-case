@@ -8,7 +8,6 @@ Project ini mencakup modul-modul utama berikut:
 
 ### Sales / Penjualan
 - `/sales` → Sales overview
-- `/sales/store` → Form membuat quotation / sales order
 - `/sales/orders` → Daftar sales order
 - `/sales/customers` → Daftar customer
 - `/sales/report` → Laporan penjualan
